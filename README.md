@@ -8,7 +8,9 @@ vim ./docker/.env.docker.dev
 
 ## modify below
 MAGENTO_BACKEND_URL=https://cmmon-138.astralweb.com.tw/
+
 MAGENTO_BACKEND_EDITION=CE
+
 CHECKOUT_BRAINTREE_TOKEN=sandbox_ykwsg34j_66jmbcfjh5p7s9sx
 
 ./docker/run-docker
